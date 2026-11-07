@@ -31,6 +31,8 @@ It combines Python-based predictive modelling with interactive Power BI dashboar
 - Analysis of age, cholesterol, chest pain and other clinical attributes.
 - Comparison of actual and predicted outcomes.
 
+
+
 ## 📈 Power BI Dashboard
 
 The interactive dashboard contains three pages:
@@ -51,7 +53,11 @@ The interactive dashboard contains three pages:
 - Prediction output datasets.
 - Power BI dashboard.
 - Project screenshots and documentation.
+## 📊 Interactive Power BI Dashboard
 
+[View Power BI Report]
+- https://app.powerbi.com/links/kbWIJnQnZs?ctid=72575a4f-98ed-4402-bcf4-2f352c246bd0&pbi_source=linkShare&bookmarkGuid=ac6d9679-424e-4e1e-9632-bb4602d1b36b
+- 
 ## ⚠️ Disclaimer
 This project is developed for educational and analytical purposes only. Model predictions are experimental estimates and must not be considered medical diagnoses or substitutes for professional medical advice.
 
