@@ -1,5 +1,3 @@
-# Healthcare-Predictive-Analytics
-Machine Learning-based healthcare analytics project for predicting diabetes and heart disease risk using Python, Google Colab and Power BI.
 # Healthcare Predictive Analytics – Diabetes & Heart Disease Prediction
 
 It combines Python-based predictive modelling with interactive Power BI dashboards to explore healthcare data and communicate analytical insights.
